@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Listing } from '../types';
-import { fakeListings } from '../fake.data';
+import { fakeListings } from '../fake-data';
 
 @Component({
   selector: 'app-listing-page',
